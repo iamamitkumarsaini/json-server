@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "hello",
+      "status": false
+    },
+    {
+      "id": 2,
+      "title": "hello2",
+      "status": false
+    }
+  ],
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Amit",
+      "roll": 395
+    },
+    {
+      "id": 2,
+      "name": "Bharat",
+      "roll": 327
+    }
+  ],
+  "transactions": [],
+  "data": [
+    {
+      "id": 1,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter 3",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1000,
+      "borrowed": false
+    },
+    {
+      "id": 2,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter 4",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1499,
+      "borrowed": false
+    },
+    {
+      "id": 3,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter 2",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false
+    },
+    {
+      "id": 4,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter ",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1999,
+      "borrowed": false
+    }
+  ]
+}
