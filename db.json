@@ -1,28 +1,23 @@
 {
-  "users": [
+  "usersignup": [
     {
       "id": 1,
-      "title": "hello",
-      "status": false
-    },
-    {
-      "id": 2,
-      "title": "hello2",
-      "status": false
+      "email": "amitmali67711@gmail.com",
+      "username": "amitsaini",
+      "password": "amit"
     }
   ],
-  "accounts": [
+  "tasks": [
     {
       "id": 1,
-      "name": "Amit",
-      "roll": 395
-    },
-    {
-      "id": 2,
-      "name": "Bharat",
-      "roll": 327
+      "title": "learn-react"
     }
   ],
+
+  "users" :[],
+
+  "dailytask":[],
+
   "transactions": [],
   "data": [
     {
