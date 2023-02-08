@@ -40,10 +40,10 @@ server.listen(process.env.PORT || 5000, () => {
 ```js
 {
     "users": [
-        { "id": 1, "name":"Naresh Kumar H", "email":"nareshkumarh@live.com", 
+        { "id": 1, "name":"Amit Kumar Saini", "email":"iamaksaini68@live.com", 
         "password":"pass123", "role": "USER"
         },
-        { "id": 2, "name":"Tushant", "email":"tushant@gmail.com", 
+        { "id": 2, "name":"Virat Saini", "email":"viratsaini68@gmail.com", 
             "password":"pass123", "role": "ADMIN"
         }
     ],
@@ -63,7 +63,7 @@ node server.js
 
 #### Step 6: Test - List Users API 
 ```
-http://localhost:5000/api/users
+http://localhost:9090/api/users
 ```
 
 Output:
@@ -71,15 +71,15 @@ Output:
 [
  {
  id: 1,
- name: "Naresh Kumar H",
- email: "nareshkumarh@live.com",
+ name: "Amit Kumar Saini",
+ email: "imaksaini68@live.com",
  password: "pass123",
  role: "USER"
  },
 {
  id: 2,
- name: "Tushant",
- email: "tushant@gmail.com",
+ name: "Virat Saini",
+ email: "viratsaini68@gmail.com",
  password: "pass123",
  role: "ADMIN"
 }
@@ -88,15 +88,15 @@ Output:
 
 #### Step 7: Test - View User Details API 
 ```
-http://localhost:5000/api/users/1
+http://localhost:9090/api/users/1
 ```
 
 Output:
 ```js
  {
  id: 1,
- name: "Naresh Kumar H",
- email: "nareshkumarh@live.com",
+ name: "Amit Kumar Saini",
+ email: "imaksaini68@live.com",
  password: "pass123",
  role: "USER"
  }
