@@ -16,6 +16,8 @@
 
   "users" :[],
 
+  "books" :[],
+
   "dailytask":[],
 
   "transactions": [],
