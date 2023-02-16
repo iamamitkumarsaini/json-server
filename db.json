@@ -16,6 +16,10 @@
 
   "users" :[],
 
+  "companies" :[],
+
+  "userstocks" :[],
+
   "blogs" :[],
 
   "books" :[],
